@@ -1,0 +1,16 @@
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\obj\Debug\net5.0\MediaIdade.csproj.AssemblyReference.cache
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\obj\Debug\net5.0\MediaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\obj\Debug\net5.0\MediaIdade.AssemblyInfoInputs.cache
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\obj\Debug\net5.0\MediaIdade.AssemblyInfo.cs
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\obj\Debug\net5.0\MediaIdade.csproj.CoreCompileInputs.cache
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\bin\Debug\net5.0\MediaIdade.exe
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\bin\Debug\net5.0\MediaIdade.deps.json
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\bin\Debug\net5.0\MediaIdade.runtimeconfig.json
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\bin\Debug\net5.0\MediaIdade.runtimeconfig.dev.json
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\bin\Debug\net5.0\MediaIdade.dll
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\bin\Debug\net5.0\ref\MediaIdade.dll
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\bin\Debug\net5.0\MediaIdade.pdb
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\obj\Debug\net5.0\MediaIdade.dll
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\obj\Debug\net5.0\ref\MediaIdade.dll
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\obj\Debug\net5.0\MediaIdade.pdb
+C:\Dev\teste\exer_csharp\MediaIdade\MediaIdade\obj\Debug\net5.0\MediaIdade.genruntimeconfig.cache

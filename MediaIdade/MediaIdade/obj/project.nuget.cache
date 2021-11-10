@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pe9Nj8MRxYy6OVwAYeQUFbAmQ8zCs7/Y9sx6YDMUKVfHGq9RYRWV5pP4rHnV0rpUAJOz9MRm9NvlXYERLqkmOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\teste\\exer_csharp\\MediaIdade\\MediaIdade\\MediaIdade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Framework\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

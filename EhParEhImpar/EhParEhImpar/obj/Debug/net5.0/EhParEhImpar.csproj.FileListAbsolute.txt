@@ -1,0 +1,16 @@
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\bin\Debug\net5.0\EhParEhImpar.exe
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\bin\Debug\net5.0\EhParEhImpar.deps.json
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\bin\Debug\net5.0\EhParEhImpar.runtimeconfig.json
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\bin\Debug\net5.0\EhParEhImpar.runtimeconfig.dev.json
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\bin\Debug\net5.0\EhParEhImpar.dll
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\bin\Debug\net5.0\ref\EhParEhImpar.dll
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\bin\Debug\net5.0\EhParEhImpar.pdb
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\obj\Debug\net5.0\EhParEhImpar.csproj.AssemblyReference.cache
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\obj\Debug\net5.0\EhParEhImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\obj\Debug\net5.0\EhParEhImpar.AssemblyInfoInputs.cache
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\obj\Debug\net5.0\EhParEhImpar.AssemblyInfo.cs
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\obj\Debug\net5.0\EhParEhImpar.csproj.CoreCompileInputs.cache
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\obj\Debug\net5.0\EhParEhImpar.dll
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\obj\Debug\net5.0\ref\EhParEhImpar.dll
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\obj\Debug\net5.0\EhParEhImpar.pdb
+C:\Dev\teste\exer_csharp\EhParEhImpar\EhParEhImpar\obj\Debug\net5.0\EhParEhImpar.genruntimeconfig.cache

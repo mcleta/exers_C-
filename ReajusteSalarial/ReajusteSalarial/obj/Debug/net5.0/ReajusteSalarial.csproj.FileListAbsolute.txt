@@ -1,0 +1,15 @@
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\bin\Debug\net5.0\ReajusteSalarial.exe
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\bin\Debug\net5.0\ReajusteSalarial.deps.json
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\bin\Debug\net5.0\ReajusteSalarial.runtimeconfig.json
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\bin\Debug\net5.0\ReajusteSalarial.runtimeconfig.dev.json
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\bin\Debug\net5.0\ReajusteSalarial.dll
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\bin\Debug\net5.0\ref\ReajusteSalarial.dll
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\bin\Debug\net5.0\ReajusteSalarial.pdb
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\obj\Debug\net5.0\ReajusteSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\obj\Debug\net5.0\ReajusteSalarial.AssemblyInfoInputs.cache
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\obj\Debug\net5.0\ReajusteSalarial.AssemblyInfo.cs
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\obj\Debug\net5.0\ReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\obj\Debug\net5.0\ReajusteSalarial.dll
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\obj\Debug\net5.0\ref\ReajusteSalarial.dll
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\obj\Debug\net5.0\ReajusteSalarial.pdb
+C:\Dev\teste\exer_csharp\ReajusteSalarial\ReajusteSalarial\obj\Debug\net5.0\ReajusteSalarial.genruntimeconfig.cache

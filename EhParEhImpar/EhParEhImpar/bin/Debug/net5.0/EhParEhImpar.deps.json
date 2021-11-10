@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EhParEhImpar/1.0.0": {
+        "runtime": {
+          "EhParEhImpar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EhParEhImpar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

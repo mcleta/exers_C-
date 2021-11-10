@@ -1,0 +1,15 @@
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\bin\Debug\net5.0\MaiorQ18.exe
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\bin\Debug\net5.0\MaiorQ18.deps.json
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\bin\Debug\net5.0\MaiorQ18.runtimeconfig.json
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\bin\Debug\net5.0\MaiorQ18.runtimeconfig.dev.json
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\bin\Debug\net5.0\MaiorQ18.dll
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\bin\Debug\net5.0\ref\MaiorQ18.dll
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\bin\Debug\net5.0\MaiorQ18.pdb
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\obj\Debug\net5.0\MaiorQ18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\obj\Debug\net5.0\MaiorQ18.AssemblyInfoInputs.cache
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\obj\Debug\net5.0\MaiorQ18.AssemblyInfo.cs
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\obj\Debug\net5.0\MaiorQ18.csproj.CoreCompileInputs.cache
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\obj\Debug\net5.0\MaiorQ18.dll
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\obj\Debug\net5.0\ref\MaiorQ18.dll
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\obj\Debug\net5.0\MaiorQ18.pdb
+C:\Dev\teste\exer_csharp\MaiorQ18\MaiorQ18\obj\Debug\net5.0\MaiorQ18.genruntimeconfig.cache

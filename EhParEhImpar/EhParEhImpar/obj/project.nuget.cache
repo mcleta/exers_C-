@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G6qTOfPEmDfo4feNt8XCRVnWZpXRriJf1+UutOA7hcubEgYEf2mWo9kA3Y6V67MyIErI2DrIAuwVab1M7dDv7g==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\teste\\exer_csharp\\EhParEhImpar\\EhParEhImpar\\EhParEhImpar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Framework\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

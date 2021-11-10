@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FT3wE00DVL3LwEg4kTRrQSKiYCq3yM1V2/YkqpdTEorMGOC98EtwzPvDSSGnK/WTa+7ybkbzDuDPYrq1Z7b6Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\teste\\exer_csharp\\ReajusteSalarial\\ReajusteSalarial\\ReajusteSalarial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Framework\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
